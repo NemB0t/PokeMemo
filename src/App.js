@@ -16,7 +16,7 @@ function App() {
   // getPokemon();
 
   return (
-    <div className='flex flex-col w-screen h-screen '>
+    <div className='flex flex-col h-screen '>
       <Header/>
       <Divider/>
       <Content/>
