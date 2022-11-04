@@ -66,7 +66,7 @@ export default function Content(){
             <div>
                 <Score highScore = {highScore} currentScore = {currentScore}/>
             </div>
-            <div className="grid grid-cols-4 gap-4 justify-center items-center ">
+            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 justify-center items-center ">
                 {pokemons.map((pokemon)=>{
                     return <Cards id={pokemon.id} name={pokemon.name} image={pokemon.image} handleClick = {handleOnClick}/>
                 })}

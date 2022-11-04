@@ -3,7 +3,7 @@ import { TbPokeball } from "react-icons/tb";
 
 export default function Header(){
     return(
-        <div className="flex justify-center items-center bg-red-600 text-white h-40 text-9xl">
+        <div className="flex justify-center items-center bg-red-600 text-white h-40 text-lg md:text-5xl lg:text-9xl">
             <TbPokeball/>
             <h1>Poke Memo</h1>
         </div>

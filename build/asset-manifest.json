@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.7bc3648e.css",
-    "main.js": "/static/js/main.3ccc571e.js",
-    "index.html": "/index.html",
-    "main.7bc3648e.css.map": "/static/css/main.7bc3648e.css.map",
-    "main.3ccc571e.js.map": "/static/js/main.3ccc571e.js.map"
+    "main.css": "/PokeMemo/static/css/main.7bc3648e.css",
+    "main.js": "/PokeMemo/static/js/main.3ccc571e.js",
+    "index.html": "/PokeMemo/index.html",
+    "main.7bc3648e.css.map": "/PokeMemo/static/css/main.7bc3648e.css.map",
+    "main.3ccc571e.js.map": "/PokeMemo/static/js/main.3ccc571e.js.map"
   },
   "entrypoints": [
     "static/css/main.7bc3648e.css",
