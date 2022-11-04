@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/PokeMemo/static/css/main.7bc3648e.css",
-    "main.js": "/PokeMemo/static/js/main.3ccc571e.js",
+    "main.css": "/PokeMemo/static/css/main.021938b1.css",
+    "main.js": "/PokeMemo/static/js/main.01afa2f0.js",
     "index.html": "/PokeMemo/index.html",
-    "main.7bc3648e.css.map": "/PokeMemo/static/css/main.7bc3648e.css.map",
-    "main.3ccc571e.js.map": "/PokeMemo/static/js/main.3ccc571e.js.map"
+    "main.021938b1.css.map": "/PokeMemo/static/css/main.021938b1.css.map",
+    "main.01afa2f0.js.map": "/PokeMemo/static/js/main.01afa2f0.js.map"
   },
   "entrypoints": [
-    "static/css/main.7bc3648e.css",
-    "static/js/main.3ccc571e.js"
+    "static/css/main.021938b1.css",
+    "static/js/main.01afa2f0.js"
   ]
 }
