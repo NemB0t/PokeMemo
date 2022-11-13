@@ -52,9 +52,13 @@ export default function Content(){
             setSelectedPokemons([]);
         }
         else{
-            setCurrentScore(currentScore+1);
+            setCurrentScore((prevCurrentScore)=>{
+                return prevCurrentScore+1;
+            });
             if(highScore<currentScore){
-                setHighScore(currentScore);
+                setHighScore(()=>{
+                    return currentScore;
+                });
             }
             selectedPokemons.push(pokeId);
         }
