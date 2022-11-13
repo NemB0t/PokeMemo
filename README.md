@@ -1,6 +1,6 @@
 Site Link: https://nemb0t.github.io/PokeMemo/
 
-This is my submision to the memory gamw project in Odin project.
+This is my submision to the memory game project in Odin project.
 
 Leasons Learned:
 - Fetch API 
